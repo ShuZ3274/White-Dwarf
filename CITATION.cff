@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: white dwarf research
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Zhang
+    email: shu.zhang4@mail.mcgill.ca
+    given-names: Shu
+    orcid: 'https://orcid.org/0009-0009-8666-9218'
+keywords:
+  - Astrophysics
+  - Compact objects
